@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Instagram</name>
+			<url>https://instagram.com/roxg_gaming</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+		<link>
+			<name>Subscribe to my YouTube channel</name>
+			<url>https://www.youtube.com/channel/UC8oHu6h6fCODPkopA7-gsbw?sub_confirmation=1</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</footerlinks>
+</repo>
