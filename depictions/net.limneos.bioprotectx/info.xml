@@ -1,0 +1,18 @@
+<package>
+	<id>net.limneos.bioprotectx</id>
+	<name>BioProtect X (iOS 11)</name>
+	<version>3.1-41</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>BioProtect X ! Super AppLock Tweak.</shortDescription>
+	<descriptionlist>
+		<description>BioProtect X is kind of a AppLock.</description>
+		<description>It lock apps, folders and shut down with Face ID and Touch ID.</description>
+	</descriptionlist>
+</package>
