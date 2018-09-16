@@ -12,3 +12,16 @@ Name: Anemone
 Author: AnemoneTeam
 Depiction: https://roxgrepo.github.io/depictions/?p=com.anemonetheming.anemone
 
+Package: net.limneos.bioprotectx
+Version: 3.1-41
+Section: Tweaks
+Maintainer: RoxG Gaming
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/net.limneos.bioprotectx.deb
+Size: 466250
+MD5sum: fd051175fc90c7c40e1890b823337963
+Description: BioProtect X ! Super AppLock Tweak.
+Name: BioProtect X (iOS 11)
+Author: Elias Limneos
+Depiction: https://roxgrepo.github.io/depictions/?p=net.limneos.bioprotectx
