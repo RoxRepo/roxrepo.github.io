@@ -1,14 +1,14 @@
-Package: com.roxgrepo.anemone
+Package: com.anemonetheming.anemone
 Version: 2.1.8-1
 Section: Tweaks
 Maintainer: RoxG Gaming
-Depends: firmware (>9.0)
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.roxgrepo.anemone_2.1.8-1.deb
+Filename: ./debs/com.anemonetheming.anemone.deb
 Size: 1868662
 MD5sum: ae3df40f3a84bc0b7b772b29769cc313
 Description: Anemone ! A awesome theme manager.
 Name: Anemone
-Author: RoxG
-Depiction: https://roxgrepo.github.io/depictions/?p=com.roxgrepo.anemone_2.1.8-1
+Author: AnemoneTeam
+Depiction: https://roxgrepo.github.io/depictions/?p=com.anemonetheming.anemone
 
