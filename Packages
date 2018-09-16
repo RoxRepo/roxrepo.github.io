@@ -1,42 +1,14 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
 Package: com.roxgrepo.anemone
-Version: 1.1-163
+Version: 2.1.8-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0)
+Maintainer: RoxG Gaming
+Depends: firmware (>9.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.roxgrepo.anemone_1.1-163.deb
-Size: 3735
-MD5sum: 7c6161f03d0ebff331895533b9be6a17
+Filename: ./debs/com.roxgrepo.anemone_2.1.8-1.deb
+Size: 1825
+MD5sum: ae3df40f3a84bc0b7b772b29769cc313
 Description: Anemone ! A awesome theme manager.
 Name: Anemone
-Author: RoxG Repo
-Depiction: https://roxgrepo.github.io/depictions/?p=com.roxgrepo.anemone_1.1-163
+Author: RoxG
+Depiction: https://roxgrepo.github.io/depictions/?p=com.roxgrepo.anemone_2.1.8-1
 
