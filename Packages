@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: roxgrepo.github.io.anemone_1.1-163
+Version: 1.1-163
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/roxgrepo.github.io.anemone_1.1-163.deb
+Size: 3735
+MD5sum: 7c6161f03d0ebff331895533b9be6a17
+Description: Anemone ! A awesome theme manager.
+Name: Anemone
+Author: RoxG Repo
+Depiction: https://roxgrepo.github.io/depictions/?p=roxgrepo.github.io.anemone_1.1-163
+
