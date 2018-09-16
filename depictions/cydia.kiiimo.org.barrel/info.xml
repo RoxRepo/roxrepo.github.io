@@ -1,0 +1,18 @@
+<package>
+	<id>cydia.kiiimo.org.barrel</id>
+	<name>Barrel</name>
+	<version>1.8.1.1-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Barrel ! 3D Effects on home screen.</shortDescription>
+	<descriptionlist>
+		<description>Barrel is adding 3D and other effects on the home screen.</description>
+		<description>Barrel is working through iOS 3 to iOS 10</description>
+	</descriptionlist>
+</package>
