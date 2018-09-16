@@ -25,3 +25,17 @@ Description: BioProtect X ! Super AppLock Tweak.
 Name: BioProtect X (iOS 11)
 Author: Elias Limneos
 Depiction: https://roxgrepo.github.io/depictions/?p=net.limneos.bioprotectx
+
+Package: cydia.kiiimo.org.barrel
+Version: 1.8.1.1-1
+Section: Tweaks
+Maintainer: RoxG Gaming
+Depends: firmware (<10.0)
+Architecture: iphoneos-arm
+Filename: ./debs/cydia.kiiimo.org.barrel.deb
+Size: 983276
+MD5sum: e12d5fa406b9eb50de878351eb0b5265
+Description: Barrel ! 3D Effects on home screen.
+Name: Barrel
+Author: Aaron Ash
+Depiction: https://roxgrepo.github.io/depictions/?p=cydia.kiiimo.org.barrel
