@@ -1,8 +1,8 @@
-Origin: RoxG Cydia Source
-Label: RoxG
+Origin: RoxRepo Cydia Repository
+Label: RoxRepo
 Suite: stable
-Version: 0.1
+Version: 0.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This is my official Cydia Source (Repo)
+Description: RoxRepo Cydia Repository
