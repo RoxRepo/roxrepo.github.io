@@ -116,3 +116,17 @@ Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, co
 Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Installed-Size: 912
+
+Package: com.razi.ztoggle
+Version: 4.0.0
+Section: Tweaks
+Maintainer: RoxRepo
+Depends: firmware (>=4.0)
+Architecture: iphoneos-arm
+Filename: ./debs/ztoggle_4.0.0.deb
+Size: 72056
+MD5sum: 5f5048b8aa71837fa602cbb61c651256
+Description: zToggle. Toggle iOS4 Multitasking & Wallpapers
+Name: zToggle
+Author: Razi Iqbal
+Depiction: https://roxrepo.github.io/depictions/?p=net.limneos.bioprotectx
