@@ -10,7 +10,7 @@ MD5sum: ae3df40f3a84bc0b7b772b29769cc313
 Description: Anemone ! A awesome theme manager.
 Name: Anemone
 Author: AnemoneTeam
-Depiction: https://roxrepo.github.io/depictions/?p=com.anemonetheming.anemone
+Depiction: https://roxrepo.github.io/depiction/?p=com.anemonetheming.anemone
 
 Package: net.limneos.bioprotectx
 Version: 3.1-41
@@ -24,7 +24,7 @@ MD5sum: fd051175fc90c7c40e1890b823337963
 Description: BioProtect X ! Super AppLock Tweak.
 Name: BioProtect X (iOS 11)
 Author: Elias Limneos
-Depiction: https://roxrepo.github.io/depictions/?p=net.limneos.bioprotectx
+Depiction: https://roxrepo.github.io/depiction/?p=net.limneos.bioprotectx
 
 Package: cydia.kiiimo.org.barrel
 Version: 1.8.1.1-1
@@ -38,7 +38,7 @@ MD5sum: e12d5fa406b9eb50de878351eb0b5265
 Description: Barrel ! 3D Effects on home screen.
 Name: Barrel
 Author: Aaron Ash
-Depiction: https://roxrepo.github.io/depictions/?p=cydia.kiiimo.org.barrel
+Depiction: https://roxrepo.github.io/depiction/?p=cydia.kiiimo.org.barrel
 
 Package: uk.invoxiplaygames.checkmatestore
 Version: 1.2
@@ -54,7 +54,7 @@ SHA256: 0863fee434c9a1aed89696655b4075aa3edde2b2ad3ee2a0e99a99428c17ffe3
 Section: Tweaks
 Description: Disable capability limits in the App Store.
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
-Depiction: https://roxrepo.github.io/depictions/?p=uk.invoxiplaygames.checkmatestore
+Depiction: https://roxrepo.github.io/depiction/?p=uk.invoxiplaygames.checkmatestore
 Name: Checkmate, Store!
 
 Package: uk.invoxiplaygames.googlesigninfix
@@ -71,7 +71,7 @@ SHA256: cb174fc33fbf70d07a99eba5338dd75114ef1118b5fb2f8c015093784bb7edfd
 Section: Tweaks
 Description: Fixes Google-owned app login on iOS 6.
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
-Depiction: https://roxrepo.github.io/depictions/?p=uk.invoxiplaygames.googlesigninfix
+Depiction: https://roxrepo.github.io/depiction/?p=uk.invoxiplaygames.googlesigninfix
 Name: GSignInFix
 
 Package: uk.invoxiplaygames.tubefixer
@@ -90,7 +90,7 @@ Section: Tweaks
 Homepage: http://tubefixer.ovh/
 Description: Package to fix YouTube on iOS 3-5
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
-Depiction: https://roxrepo.github.io/depictions/?p=uk.invoxiplaygames.tubefixer
+Depiction: https://roxrepo.github.io/depiction/?p=uk.invoxiplaygames.tubefixer
 Icon: file:///Library/Application%20Support/uk.invoxiplaygames.tubefixer/tubefixericon.png
 Name: TubeFixer for iOS
 
@@ -99,7 +99,7 @@ Package: com.ryannair05.little11
 Description: iPhone 11 gestures and more for iOS 13
 Architecture: iphoneos-arm
 Section: Tweaks
-Depiction: https://roxrepo.github.io/depictions/?p=com.ryannair05.little11
+Depiction: https://roxrepo.github.io/depiction/?p=com.ryannair05.little11
 Icon: https://repo.packix.com/api/Packages/5ddabfd4e6863b001a5ac092/icon/download?size=medium&hash=2
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.ryannair05.little11/depiction
 Version: 1.5.1
@@ -129,4 +129,4 @@ MD5sum: 5f5048b8aa71837fa602cbb61c651256
 Description: zToggle. Toggle iOS4 Multitasking & Wallpapers
 Name: zToggle
 Author: Razi Iqbal
-Depiction: https://roxrepo.github.io/depictions/?p=com.razi.ztoggle
+Depiction: https://roxrepo.github.io/depiction/?p=com.razi.ztoggle
