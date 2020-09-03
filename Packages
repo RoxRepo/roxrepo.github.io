@@ -10,7 +10,7 @@ MD5sum: ae3df40f3a84bc0b7b772b29769cc313
 Description: Anemone ! A awesome theme manager.
 Name: Anemone
 Author: AnemoneTeam
-Depiction: https://roxgrepo.github.io/depictions/?p=com.anemonetheming.anemone
+Depiction: https://roxrepo.github.io/depictions/?p=com.anemonetheming.anemone
 
 Package: net.limneos.bioprotectx
 Version: 3.1-41
@@ -24,7 +24,7 @@ MD5sum: fd051175fc90c7c40e1890b823337963
 Description: BioProtect X ! Super AppLock Tweak.
 Name: BioProtect X (iOS 11)
 Author: Elias Limneos
-Depiction: https://roxgrepo.github.io/depictions/?p=net.limneos.bioprotectx
+Depiction: https://roxrepo.github.io/depictions/?p=net.limneos.bioprotectx
 
 Package: cydia.kiiimo.org.barrel
 Version: 1.8.1.1-1
@@ -38,4 +38,4 @@ MD5sum: e12d5fa406b9eb50de878351eb0b5265
 Description: Barrel ! 3D Effects on home screen.
 Name: Barrel
 Author: Aaron Ash
-Depiction: https://roxgrepo.github.io/depictions/?p=cydia.kiiimo.org.barrel
+Depiction: https://roxrepo.github.io/depictions/?p=cydia.kiiimo.org.barrel
