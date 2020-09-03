@@ -1,7 +1,7 @@
 Package: com.anemonetheming.anemone
 Version: 2.1.8-1
 Section: Tweaks
-Maintainer: RoxG Gaming
+Maintainer: RoxRepo
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.anemonetheming.anemone.deb
@@ -15,7 +15,7 @@ Depiction: https://roxrepo.github.io/depictions/?p=com.anemonetheming.anemone
 Package: net.limneos.bioprotectx
 Version: 3.1-41
 Section: Tweaks
-Maintainer: RoxG Gaming
+Maintainer: RoxRepo
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/net.limneos.bioprotectx.deb
@@ -29,7 +29,7 @@ Depiction: https://roxrepo.github.io/depictions/?p=net.limneos.bioprotectx
 Package: cydia.kiiimo.org.barrel
 Version: 1.8.1.1-1
 Section: Tweaks
-Maintainer: RoxG Gaming
+Maintainer: RoxRepo
 Depends: firmware (<10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/cydia.kiiimo.org.barrel.deb
