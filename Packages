@@ -39,3 +39,80 @@ Description: Barrel ! 3D Effects on home screen.
 Name: Barrel
 Author: Aaron Ash
 Depiction: https://roxrepo.github.io/depictions/?p=cydia.kiiimo.org.barrel
+
+Package: uk.invoxiplaygames.checkmatestore
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: RoxRepo
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 2.0)
+Filename: ./debs/checkmatestore-1.2.deb
+Size: 5200
+MD5sum: 5245fc6431aadd77110a226b8f0d9ee8
+SHA1: 1330e7a5c051c6dfbff558184de78accecb19032
+SHA256: 0863fee434c9a1aed89696655b4075aa3edde2b2ad3ee2a0e99a99428c17ffe3
+Section: Tweaks
+Description: Disable capability limits in the App Store.
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: https://roxrepo.github.io/depictions/?p=uk.invoxiplaygames.checkmatestore
+Name: Checkmate, Store!
+
+Package: uk.invoxiplaygames.googlesigninfix
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: RoxRepo
+Installed-Size: 52
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/googlesigninfix-1.0.1.deb
+Size: 3432
+MD5sum: 9112f892fbaaa0b307151cfd1bad5276
+SHA1: d6e5506ea296892e80923293098dd792bc58834c
+SHA256: cb174fc33fbf70d07a99eba5338dd75114ef1118b5fb2f8c015093784bb7edfd
+Section: Tweaks
+Description: Fixes Google-owned app login on iOS 6.
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: https://roxrepo.github.io/depictions/?p=uk.invoxiplaygames.googlesigninfix
+Name: GSignInFix
+
+Package: uk.invoxiplaygames.tubefixer
+Version: 2.0-152+debug
+Architecture: iphoneos-arm
+Maintainer: RoxRepo
+Installed-Size: 136
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, firmware (>= 2.0)
+Filename: ./debs/tubefixer-2.0-152-RC1.deb
+Size: 27972
+MD5sum: 3099d5610e8e73426a947fcf646fffcf
+SHA1: 8971219e0b2c4dee1632631a72507d387689deb6
+SHA256: 7912801feec7ec8062a39a0187976647da05cfe16026147a65ec2ecd58dd7c00
+Section: Tweaks
+Homepage: http://tubefixer.ovh/
+Description: Package to fix YouTube on iOS 3-5
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: https://roxrepo.github.io/depictions/?p=uk.invoxiplaygames.tubefixer
+Icon: file:///Library/Application%20Support/uk.invoxiplaygames.tubefixer/tubefixericon.png
+Name: TubeFixer for iOS
+
+Name: Little11
+Package: com.ryannair05.little11
+Description: iPhone 11 gestures and more for iOS 13
+Architecture: iphoneos-arm
+Section: Tweaks
+Depiction: https://roxrepo.github.io/depictions/?p=com.ryannair05.little11
+Icon: https://repo.packix.com/api/Packages/5ddabfd4e6863b001a5ac092/icon/download?size=medium&hash=2
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ryannair05.little11/depiction
+Version: 1.5.1
+Tag: purpose::extension, compatible_min::ios13.2, compatible_max::ios13.6.1
+Filename: ./debs/com.ryannair05.little11_1.5.1_iphoneos-arm.deb
+Size: 340596
+MD5sum: c33ce9a1c9d7c0c986725012fe42042f
+SHA1: b63708c0917e8dd0b98995f9cd379f1383a16e5a
+SHA256: 66e505c9b2e44645398ff375561207d0f8525ce15b4a6858a709bdb58a03d65a
+Author: Ryan Nair
+Maintainer: RoxRepo
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Installed-Size: 912
